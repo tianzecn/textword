@@ -1,4 +1,4 @@
-# 汉语新解 (Chinese Reinterpretation)
+# 汉语新解 (Chinese Reinterpretation)--
 
 在线体验地址: [https://texthuman.ai](https://texthuman.ai)
 
